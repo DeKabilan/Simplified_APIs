@@ -4,6 +4,6 @@
 
 ##1)Reddit
 
-_API:_ 'https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}'
+_API:_ `https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}`
 
-_Usage:_ 'https://dekabilanapi.onrender.com/api/reddit/news/hot'
+_Usage:_ `https://dekabilanapi.onrender.com/api/reddit/news/hot`
