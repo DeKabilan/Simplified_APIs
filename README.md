@@ -13,6 +13,7 @@ _API:_ `https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}`
 _Usage:_ `https://dekabilanapi.onrender.com/api/reddit/news/hot`
 
 
+
 _**Simplified:**_
 
 _API:_ `https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}/simple`
