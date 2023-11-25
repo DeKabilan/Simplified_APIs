@@ -18,7 +18,7 @@ _**Simplified:**_
 
 _API:_ `https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}/simple`
 
-_Usage:_ `https://dekabilanapi.onrender.com/api/reddit/news/hot/simple`
+_Usage:_ `https://dekabilanapi.onrender.com/api/reddit/memes/hot/simple`
 
 _Returns_:
 
