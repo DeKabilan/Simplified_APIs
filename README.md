@@ -22,7 +22,8 @@ _Usage:_ `https://dekabilanapi.onrender.com/api/reddit/news/hot/simple`
 
 _Returns_:
 
-`{
+```
+{
     "0": {
         "text": "",
         "title": "🤔",
@@ -41,4 +42,5 @@ _Returns_:
         "upvotes": 1040,
         "url": "https://i.redd.it/jwqyu9vgpe2c1.jpg"
     }
-  }`
+  }
+```
