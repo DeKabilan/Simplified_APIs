@@ -6,10 +6,14 @@ _**Note:**_ _Create a Pull Request if you want to add more APIs and help this in
 
 ## 1) Reddit
 
+_**Regular:**_
+
 _API:_ `https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}`
 
 _Usage:_ `https://dekabilanapi.onrender.com/api/reddit/news/hot`
 
-_Simplified:_ `https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}/simple`
+_**Simplified:**_
+
+_API:_ `https://dekabilanapi.onrender.com/api/reddit/{subreddit}/{type:hot/new}/simple`
 
 _Usage:_ `https://dekabilanapi.onrender.com/api/reddit/news/hot/simple`
