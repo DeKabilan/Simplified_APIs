@@ -38,8 +38,8 @@ def redditsimple(query,method):
 
     data={
     'grant_type': 'password' ,
-    'username': 'pleasedonothack' ,
-    'password': 'sasukeUCHIHA1!'}
+    'username': '{username}' ,
+    'password': '{password}'}
 
     headers={'User-Agent' : 'MYAPI/0.0.1'}
 
